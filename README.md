@@ -1,6 +1,9 @@
 # Environment monitoring for Asthma Patients
 ----
 My classmates and I are worked on an IoT domain Analyst project. We wanted to learn and apply our knowledge to help society with a healthcare topic using ThingSpeak, ESP32, and basic ML models
+
+Note: Create your channel on thingspeak and use your API key and channelID. You can enter this information in api.py
+
 ## Introduction 
 - Air quality refers to the composition of gases and particles present in the atmosphere, which can vary based on factors such as industrial activities, transportation, and natural
 processes.
